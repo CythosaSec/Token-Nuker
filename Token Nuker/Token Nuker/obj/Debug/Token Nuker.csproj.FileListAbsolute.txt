@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Token Nuker.exe.config
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Token Nuker.exe
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Token Nuker.pdb
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Anarchy.dll
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Leaf.xNet.dll
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\websocket-sharp.dll
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Leaf.xNet.xml
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\obj\Debug\Token Nuker.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\obj\Debug\Token Nuker.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\obj\Debug\Token Nuker.csproj.CopyComplete
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\obj\Debug\Token Nuker.exe
+C:\Users\simon\Desktop\Token-Nuker\Token Nuker\Token Nuker\obj\Debug\Token Nuker.pdb
